@@ -1,9 +1,13 @@
 # baitap6
 btvn 6 của sv: K225480106043_Nguyễn Giang Long_HQTCSDL
-Bài tập 6: Hệ quản trị CSDL
-Chủ đề: Câu lệnh Select
-Yêu cầu bài tập: 
-Cho file sv_tnut.sql (1.6MB)
+
+-Bài tập 6: Hệ quản trị CSDL
+
+-Chủ đề: Câu lệnh Select
+
+-Yêu cầu bài tập: 
+
+-Cho file sv_tnut.sql (1.6MB)
 1. Hãy nêu các bước để import được dữ liệu trong sv_tnut.sql vào sql server của em
 2. dữ liệu đầu vào là tên của sv; sđt; ngày, tháng, năm sinh của sinh viên (của sv đang làm bài tập này)
 3. nhập sql để tìm xem có những sv nào trùng hoàn toàn ngày/tháng/năm với em?
